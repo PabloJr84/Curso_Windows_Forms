@@ -3,9 +3,9 @@ C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.SuggestedBindingRedirects.cache
-C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Principal.resources
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources

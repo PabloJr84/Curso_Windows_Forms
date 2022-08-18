@@ -1,6 +1,6 @@
 ﻿namespace CursoWindowsForms
 {
-    partial class Principal
+    partial class Frm_Principal
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -28,25 +28,26 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.Titulo = new System.Windows.Forms.Label();
+            this.lbl_Titulo = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // Titulo
+            // lbl_Titulo
             // 
-            this.Titulo.AutoSize = true;
-            this.Titulo.Location = new System.Drawing.Point(12, 9);
-            this.Titulo.Name = "Titulo";
-            this.Titulo.Size = new System.Drawing.Size(35, 13);
-            this.Titulo.TabIndex = 0;
-            this.Titulo.Text = "label1";
+            this.lbl_Titulo.AutoSize = true;
+            this.lbl_Titulo.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_Titulo.Location = new System.Drawing.Point(12, 9);
+            this.lbl_Titulo.Name = "lbl_Titulo";
+            this.lbl_Titulo.Size = new System.Drawing.Size(244, 23);
+            this.lbl_Titulo.TabIndex = 0;
+            this.lbl_Titulo.Text = "Visual Studio .NET Version";
             // 
-            // Principal
+            // Frm_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1041, 556);
-            this.Controls.Add(this.Titulo);
-            this.Name = "Principal";
+            this.Controls.Add(this.lbl_Titulo);
+            this.Name = "Frm_Principal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Principal";
             this.ResumeLayout(false);
@@ -56,7 +57,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Label Titulo;
+        private System.Windows.Forms.Label lbl_Titulo;
     }
 }
 
