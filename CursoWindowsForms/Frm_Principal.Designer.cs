@@ -30,6 +30,7 @@
         {
             this.lbl_Titulo = new System.Windows.Forms.Label();
             this.Btn_Sair = new System.Windows.Forms.Button();
+            this.Btn_ModicaLabel = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lbl_Titulo
@@ -52,11 +53,22 @@
             this.Btn_Sair.UseVisualStyleBackColor = true;
             this.Btn_Sair.Click += new System.EventHandler(this.Btn_Sair_Click);
             // 
+            // Btn_ModicaLabel
+            // 
+            this.Btn_ModicaLabel.Location = new System.Drawing.Point(15, 78);
+            this.Btn_ModicaLabel.Name = "Btn_ModicaLabel";
+            this.Btn_ModicaLabel.Size = new System.Drawing.Size(138, 23);
+            this.Btn_ModicaLabel.TabIndex = 2;
+            this.Btn_ModicaLabel.Text = "Modifica Texto do  Label";
+            this.Btn_ModicaLabel.UseVisualStyleBackColor = true;
+            this.Btn_ModicaLabel.Click += new System.EventHandler(this.Btn_ModicaLabel_Click);
+            // 
             // Frm_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1041, 556);
+            this.Controls.Add(this.Btn_ModicaLabel);
             this.Controls.Add(this.Btn_Sair);
             this.Controls.Add(this.lbl_Titulo);
             this.Name = "Frm_Principal";
@@ -71,6 +83,7 @@
 
         private System.Windows.Forms.Label lbl_Titulo;
         private System.Windows.Forms.Button Btn_Sair;
+        private System.Windows.Forms.Button Btn_ModicaLabel;
     }
 }
 
