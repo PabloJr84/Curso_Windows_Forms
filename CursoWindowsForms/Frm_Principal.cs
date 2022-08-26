@@ -24,7 +24,7 @@ namespace CursoWindowsForms
 
         private void Btn_ModicaLabel_Click(object sender, EventArgs e)
         {
-            lbl_Titulo.Text = "Label modificado";
+            lbl_Titulo.Text = textBox1.Text;
         }
     }
 }
