@@ -9,3 +9,4 @@ C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
 C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Demonstracao.resources
