@@ -42,6 +42,7 @@ namespace CursoWindowsForms
             Txt_Imput.Text = "";
             Lbl_Upper.Text = "";
             Lbl_Lower.Text = "";
+ 
         }
     }
 }
