@@ -21,6 +21,9 @@ namespace CursoWindowsForms
         {
             Txt_Msg.AppendText("\r\n" + " Precione uma tecla: " + e.KeyCode + "\r\n");
             Txt_Msg.AppendText("\t" + " Código da tecla: " +((int)e.KeyCode) + "\r\n");
+            Txt_Msg.AppendText("\t" + " Nome da tecla: " + e.KeyData + "\r\n");
+           Lbl_Lower.Text = e.KeyCode.ToString().ToLower();
+            Lbl_Upper.Text = e.KeyCode.ToString().ToUpper();
         }
 
         private void Txt_Imput_TextChanged(object sender, EventArgs e)
