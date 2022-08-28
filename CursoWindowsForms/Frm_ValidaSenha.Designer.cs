@@ -57,6 +57,7 @@
             this.Btn_Reset.TabIndex = 2;
             this.Btn_Reset.Text = "Limpar";
             this.Btn_Reset.UseVisualStyleBackColor = true;
+            this.Btn_Reset.Click += new System.EventHandler(this.Btn_Reset_Click);
             // 
             // Frm_ValidaSenha
             // 

@@ -93,5 +93,12 @@ namespace CursoWindowsForms
             else
                 return ForcaDaSenha.Segura;
         }
+
+        private void Btn_Reset_Click(object sender, EventArgs e)
+        {
+            Txt_Senha.Text = "";
+            Lbl_Resultado.Text = "";
+
+        }
     }
 }
