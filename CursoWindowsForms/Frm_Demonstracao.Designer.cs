@@ -43,6 +43,8 @@
             this.Txt_Imput.Name = "Txt_Imput";
             this.Txt_Imput.Size = new System.Drawing.Size(100, 20);
             this.Txt_Imput.TabIndex = 0;
+            this.Txt_Imput.TextChanged += new System.EventHandler(this.Txt_Imput_TextChanged);
+            this.Txt_Imput.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Txt_Imput_KeyDown);
             // 
             // Txt_Msg
             // 
@@ -53,6 +55,7 @@
             this.Txt_Msg.Size = new System.Drawing.Size(304, 232);
             this.Txt_Msg.TabIndex = 1;
             this.Txt_Msg.TabStop = false;
+            this.Txt_Msg.TextChanged += new System.EventHandler(this.Txt_Msg_TextChanged);
             // 
             // Btn_Rest
             // 
@@ -110,6 +113,7 @@
             this.Controls.Add(this.Txt_Msg);
             this.Controls.Add(this.Txt_Imput);
             this.Name = "Frm_Demonstracao";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Demonstração Evento Key";
             this.ResumeLayout(false);
             this.PerformLayout();

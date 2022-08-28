@@ -16,5 +16,21 @@ namespace CursoWindowsForms
         {
             InitializeComponent();
         }
+
+        private void Txt_Imput_KeyDown(object sender, KeyEventArgs e)
+        {
+            Txt_Msg.AppendText("\r\n" + " Precione uma tecla: " + e.KeyCode + "\r\n");
+            Txt_Msg.AppendText("\t" + " Código da tecla: " +((int)e.KeyCode) + "\r\n");
+        }
+
+        private void Txt_Imput_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Txt_Msg_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
