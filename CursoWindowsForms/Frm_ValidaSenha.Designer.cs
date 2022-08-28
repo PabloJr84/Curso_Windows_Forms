@@ -46,9 +46,8 @@
             this.Lbl_Resultado.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_Resultado.Location = new System.Drawing.Point(12, 90);
             this.Lbl_Resultado.Name = "Lbl_Resultado";
-            this.Lbl_Resultado.Size = new System.Drawing.Size(55, 23);
+            this.Lbl_Resultado.Size = new System.Drawing.Size(0, 23);
             this.Lbl_Resultado.TabIndex = 1;
-            this.Lbl_Resultado.Text = "label1";
             // 
             // Btn_Reset
             // 
