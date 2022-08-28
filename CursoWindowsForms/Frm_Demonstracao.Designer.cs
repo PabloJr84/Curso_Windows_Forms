@@ -65,6 +65,7 @@
             this.Btn_Rest.TabIndex = 2;
             this.Btn_Rest.Text = "Limpa";
             this.Btn_Rest.UseVisualStyleBackColor = true;
+            this.Btn_Rest.Click += new System.EventHandler(this.Btn_Rest_Click);
             // 
             // Lbl_Minus
             // 

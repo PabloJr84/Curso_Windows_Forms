@@ -35,5 +35,13 @@ namespace CursoWindowsForms
         {
 
         }
+
+        private void Btn_Rest_Click(object sender, EventArgs e)
+        {
+            Txt_Msg.Text = "";
+            Txt_Imput.Text = "";
+            Lbl_Upper.Text = "";
+            Lbl_Lower.Text = "";
+        }
     }
 }
